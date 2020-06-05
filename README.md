@@ -1,0 +1,2 @@
+# LinearTest
+ Linear Layout denemesi
